@@ -39,6 +39,6 @@ Welcome to the Craftyy Corner repository. This project is a simple website for a
 Feel free to fork the repository and submit pull requests. Contributions are welcome to improve this project and add more features.
 
 ## 📧 Contact
-For any queries or suggestions, reach out at: [Your Email Here]
+For any queries or suggestions, reach out
 
 Happy coding!
