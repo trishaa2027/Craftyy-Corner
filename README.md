@@ -2,12 +2,15 @@
 
 Welcome to the Craftyy Corner repository. This project is a simple website for a resin art business that showcases handcrafted resin products including custom keychains, frames, and pendants.
 
+## 🌐 Live Demo
+- [Craftyy Corner Live Demo](https://craftyycorner.netlify.app/)
+
 ## 📦 Project Structure
 
-- `index.html` - Main webpage.
-- `styles.css` - Styling for the webpage.
-- `script.js` - JavaScript for interactivity.
-- `assets/` - Contains all images and media assets.
+- `index.html` - Main webpage structure and content.
+- `styles.css` - Styling for the entire website.
+- `script.js` - JavaScript for hover effects and interactivity.
+- `assets/` - Images and media assets.
 
 ## 🚀 How to Run
 
@@ -23,5 +26,19 @@ Welcome to the Craftyy Corner repository. This project is a simple website for a
 - Customized Resin Art
 - Floral Frames
 - Personalized Pendants
+- Stylish Jhumkas
+- Custom Phone Cases
 
-Feel free to customize and expand upon this template. Happy coding!
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+
+## 🤝 Contributing
+Feel free to fork the repository and submit pull requests. Contributions are welcome to improve this project and add more features.
+
+## 📧 Contact
+For any queries or suggestions, reach out at: [Your Email Here]
+
+Happy coding!
